@@ -24,7 +24,7 @@
             "name": "Splitpayments",
             "version": "static-release",
             "short_description": "Split incoming payments across wallets",
-            "icon": "https://github.com/lnbits/splitpayments/raw/main/static/image/split-payments.png",
+            "icon": "https://bringin.xyz/wp-content/uploads/2023/11/Frame-7483-1.png",
             "archive": "https://github.com/MichaelAntonFischer/splitpayments/archive/refs/tags/static-release.zip",
             "hash": ""
         }
