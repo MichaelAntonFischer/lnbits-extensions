@@ -11,11 +11,11 @@
             "id": "lnurlp",
             "repo": "https://github.com/lnbits/lnurlp",
             "name": "LNURLp",
-            "version": "0.4.5",
+            "version": "0.4.6",
             "min_lnbits_version": "0.11.2",
             "short_description": "Create static payment links",
             "icon": "https://github.com/lnbits/lnurlp/raw/main/static/image/lnurl-pay.png",
-            "archive": "https://github.com/Opago-Pay/lnurlp/archive/refs/tags/v0.4.5.zip",
+            "archive": "https://github.com/Opago-Pay/lnurlp/archive/refs/tags/v0.4.6.zip",
             "hash": ""
         },
         {
