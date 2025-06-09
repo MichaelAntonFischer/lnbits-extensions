@@ -16,12 +16,12 @@
       "id": "splitpayments",
       "repo": "https://github.com/MichaelAntonFischer/splitpayments",
       "name": "Split Payments",
-      "version": "v1.1.1-rc16",
+      "version": "v1.1.1-rc17",
       "min_lnbits_version": "0.11.2",
       "short_description": "Have payments split between multiple wallets automatically",
       "icon": "https://raw.githubusercontent.com/MichaelAntonFischer/splitpayments/main/static/image/split-payments.png",
-      "archive": "https://github.com/MichaelAntonFischer/splitpayments/archive/refs/tags/v1.1.1-rc16.zip",
-      "hash": "606ae0a678f3be3afb253485ef7cd128d18bcf428e55448f8feccdfbc748ce3d"
+      "archive": "https://github.com/MichaelAntonFischer/splitpayments/archive/refs/tags/v1.1.1-rc17.zip",
+      "hash": "b4a55192c176bfd287e98b387c303190176ef14e8dbdcd2348c631a1885c8165"
     }
   ]
 }
