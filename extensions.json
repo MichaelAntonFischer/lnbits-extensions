@@ -1,24 +1,26 @@
-[
-  {
-    "id": "lnurlp",
-    "repo": "https://github.com/lnbits/lnurlp",
-    "name": "LNURLp",
-    "version": "0.4.6",
-    "min_lnbits_version": "0.11.2",
-    "short_description": "Create static payment links",
-    "icon": "https://github.com/lnbits/lnurlp/raw/main/static/image/lnurl-pay.png",
-    "archive": "https://github.com/Opago-Pay/lnurlp/archive/refs/tags/v0.4.6.zip",
-    "hash": ""
-  },
-  {
-    "id": "splitpayments",
-    "repo": "https://github.com/MichaelAntonFischer/splitpayments",
-    "name": "Split Payments",
-    "version": "v1.1.0-rc5",
-    "min_lnbits_version": "0.11.2",
-    "short_description": "Have payments split between multiple wallets automatically",
-    "icon": "https://raw.githubusercontent.com/MichaelAntonFischer/splitpayments/main/static/image/split-payments.png",
-    "archive": "https://github.com/MichaelAntonFischer/splitpayments/archive/refs/tags/v1.1.0-rc5.zip",
-    "hash": "746f0dc55bc4a251db2c2a6eca4764628a7ae8661776a678abb807ee4191f022"
-  }
-]
+{
+  "extensions": [
+    {
+      "id": "lnurlp",
+      "repo": "https://github.com/lnbits/lnurlp",
+      "name": "LNURLp",
+      "version": "0.4.6",
+      "min_lnbits_version": "0.11.2",
+      "short_description": "Create static payment links",
+      "icon": "https://github.com/lnbits/lnurlp/raw/main/static/image/lnurl-pay.png",
+      "archive": "https://github.com/Opago-Pay/lnurlp/archive/refs/tags/v0.4.6.zip",
+      "hash": ""
+    },
+    {
+      "id": "splitpayments",
+      "repo": "https://github.com/MichaelAntonFischer/splitpayments",
+      "name": "Split Payments",
+      "version": "v1.1.0-rc5",
+      "min_lnbits_version": "0.11.2",
+      "short_description": "Have payments split between multiple wallets automatically",
+      "icon": "https://raw.githubusercontent.com/MichaelAntonFischer/splitpayments/main/static/image/split-payments.png",
+      "archive": "https://github.com/MichaelAntonFischer/splitpayments/archive/refs/tags/v1.1.0-rc5.zip",
+      "hash": "746f0dc55bc4a251db2c2a6eca4764628a7ae8661776a678abb807ee4191f022"
+    }
+  ]
+}
