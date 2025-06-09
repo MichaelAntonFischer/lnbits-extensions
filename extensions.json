@@ -1,32 +1,23 @@
-{
-    "featured": [
-        "tpos",
-        "splitpayments",
-        "gerty",
-        "usermanager",
-        "lnticket"
-    ],
-    "extensions": [
-        {
-            "id": "lnurlp",
-            "repo": "https://github.com/lnbits/lnurlp",
-            "name": "LNURLp",
-            "version": "0.4.6",
-            "min_lnbits_version": "0.11.2",
-            "short_description": "Create static payment links",
-            "icon": "https://github.com/lnbits/lnurlp/raw/main/static/image/lnurl-pay.png",
-            "archive": "https://github.com/Opago-Pay/lnurlp/archive/refs/tags/v0.4.6.zip",
-            "hash": ""
-        },
-        {
-            "id": "splitpayments",
-            "repo": "https://github.com/Opago-Pay/splitpayments",
-            "name": "Splitpayments",
-            "version": "static-release",
-            "short_description": "Split incoming payments across wallets",
-            "icon": "https://bringin.xyz/wp-content/uploads/2023/11/Frame-7483-1.png",
-            "archive": "https://github.com/MichaelAntonFischer/splitpayments/archive/refs/tags/static-release.zip",
-            "hash": ""
-        }
-    ]
-}
+[
+  {
+    "id": "lnurlp",
+    "repo": "https://github.com/lnbits/lnurlp",
+    "name": "LNURLp",
+    "version": "0.4.6",
+    "min_lnbits_version": "0.11.2",
+    "short_description": "Create static payment links",
+    "icon": "https://github.com/lnbits/lnurlp/raw/main/static/image/lnurl-pay.png",
+    "archive": "https://github.com/Opago-Pay/lnurlp/archive/refs/tags/v0.4.6.zip",
+    "hash": ""
+  },
+  {
+    "id": "splitpayments",
+    "repo": "https://github.com/MichaelAntonFischer/splitpayments",
+    "name": "Split Payments",
+    "version": "v1.1.0-rc4",
+    "short_description": "Have payments split between multiple wallets automatically",
+    "icon": "https://raw.githubusercontent.com/MichaelAntonFischer/splitpayments/main/static/image/split-payments.png",
+    "archive": "",
+    "hash": "f5bf3481d906ff5846e54eb07d4a9586c878efff4f88e2e324419e1cd10bcb89"
+  }
+]
